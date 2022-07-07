@@ -1,0 +1,25 @@
+.row{
+    padding: 3em;
+    margin-top: 0.2em;
+}
+
+h1{
+    padding-bottom: 1em;
+}
+
+div{
+    background-color:#394286;
+    color: white;
+}
+
+h1{
+    margin-bottom: 1em;
+}
+
+ul{
+    padding-bottom: 1.5em;
+}
+
+#tarea{
+    margin-top: -1em;
+}

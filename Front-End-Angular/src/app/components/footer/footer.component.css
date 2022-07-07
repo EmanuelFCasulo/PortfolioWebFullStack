@@ -1,0 +1,19 @@
+.row{
+    background-color:#394286;
+}
+
+footer{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px #394286;
+    padding-top: 1em;
+    font-size: 2em;
+}
+
+
+footer p img{
+    width: 10em;
+    
+}
