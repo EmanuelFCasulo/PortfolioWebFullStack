@@ -1,4 +1,4 @@
-import { HttpClient } from '@angular/common/Http';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { persona } from '../model/persona.model';
