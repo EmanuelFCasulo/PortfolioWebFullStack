@@ -16,10 +16,7 @@ public class JwtDto {
         this.token = token;
         this.nombreUsuario = nombreUsuario;
         this.authorities = authorities;
-    }
-
-    
-    
+    } 
     
     //Getters y setters
 
